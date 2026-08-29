@@ -110,6 +110,7 @@
             },
             {
               "key": "compression",
+              "short_name": "COMP",
               "label": "Comp",
               "type": "enum",
               "options": [
