@@ -2,7 +2,7 @@
   "id": "tapescam",
   "name": "TAPESCAM",
   "abbrev": "TS",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "description": "Tape saturation and degradation effect",
   "author": "charlesvestal",
   "license": "MIT",
